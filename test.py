@@ -5,3 +5,6 @@ if x > 5:
 y=["Ali","Reza"]
 for z in y:
     print(z)
+
+name = input("What is your name?")
+print(f"my name is :{name}")
